@@ -62,4 +62,4 @@ pod install
 
 **Don't forget to add icon font to your project**
 
-![](https://github.com/mconintet/MOIToast/blob/master/add-icon-font.png)
+![](https://raw.githubusercontent.com/mconintet/MOIToast/master/add-icon-font.png)
