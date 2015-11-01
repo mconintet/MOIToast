@@ -46,7 +46,7 @@ Simple toast in Object-C for iOS.
 
 ## Screenshot
 
-![](https://github.com/mconintet/MOIToast/blob/master/screenshot.gif)
+![](https://raw.githubusercontent.com/mconintet/MOIToast/master/screenshot.gif)
 
 ## Installation
 
